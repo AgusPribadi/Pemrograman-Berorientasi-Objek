@@ -1,0 +1,23 @@
+Super classnya ialah animal
+
+sedangkan 3 kelas lainnya Dog, Cat, dan Bird
+
+Nama field yang diberikan setiap classnya ialah, 
+
+animalName
+animalWeight
+animalHealthy
+
+di dalam class Dog ada field breed (tipenya String)
+di dalam class Cat ada field color (tipenya String
+di dalam class Bird ada field breed (tipenya String)
+
+sedangkan no argumen constructor terdapat pada constructor animal()
+
+untuk parameterized constructor terdapat pada animalName = name; dst
+
+di animal ada method yang tidak memakai parameter ialah sleep,
+
+di animal ada method yang memakai parameter ialah eat,
+
+Method yang meengembalikan value ialah return animalHealthy;
